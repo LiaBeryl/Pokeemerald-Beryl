@@ -1,3 +1,5 @@
+THIS IS A FORK of https://github.com/pret/pokeemerald I botched the setup and haven't bothered to fix it yet.
+
 # Pokémon Emerald
 
 This is a decompilation of Pokémon Emerald.
