@@ -1,4 +1,4 @@
-THIS IS A FORK of https://github.com/pret/pokeemerald I botched the setup and haven't bothered to fix it yet.
+This repo is a fork of https://github.com/pret/pokeemerald I botched the setup and haven't bothered to fix it yet.
 
 # Pokémon Emerald
 
